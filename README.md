@@ -6,7 +6,7 @@
 
 ## About me
 
-I build intelligent systems and love turning raw data into real decisions. Currently seeking AI/ML internships — open to remote.
+I build intelligent systems and love turning raw data into real decisions. Currently seeking AI/ML internships.
 
 - 🎓 3rd year BSc (Hons) Information Technology @ **SLIIT**, specialising in AI
 - 🔍 Actively seeking **AI / ML / IT internships** — open to remote
@@ -23,7 +23,12 @@ I build intelligent systems and love turning raw data into real decisions. Curre
 |---------|-------------|-------|
 | [**RA Contact**](https://github.com/Aruniya-Nadeshan/ra-contact) | AI-powered 7-level interactive web game inspired by the Law of One | HTML · CSS · JS · Node.js · Gemini 2.5 Flash · TensorFlow.js · MediaPipe |
 | **CareerPath AI** | Career recommendation system using a Decision Tree Classifier | React.js · Node.js · Python · scikit-learn · MongoDB Atlas |
-| **Forest Fire Detection** | ML model for detecting forest fires from satellite imagery | Python · MobileNet · Google Colab · Kaggle |
+| **AI-Restaurant System** | A full-stack intelligent restaurant management platform with integrated AI-driven demand forecasting and waste prediction for both sales and inventory optimization. | Next.js 14, React 18, Tailwind CSS, Chart.js
+Node.js, Express.js, Prisma ORM
+PostgreSQL
+Python 3.9+, FastAPI, scikit-learn
+Vercel (frontend), Render (backend & AI service)
+Docker, docker-compose |
 | **TripIQ** | AI-powered travel planning mobile app | React Native |
 
 ## GitHub stats
@@ -40,9 +45,8 @@ I build intelligent systems and love turning raw data into real decisions. Curre
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aruniya-nadeshan-48122b378) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aruniya-Nadeshan) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aruniyanadeshan1234@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruniya-nadeshan-48122b378/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aruniya-Nadeshan) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aruniyanadeshan1234@gmail.com)
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=for-the-badge)
 
 </div>
 
