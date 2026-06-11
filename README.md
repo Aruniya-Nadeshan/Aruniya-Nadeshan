@@ -23,12 +23,7 @@ I build intelligent systems and love turning raw data into real decisions. Curre
 |---------|-------------|-------|
 | [**RA Contact**](https://github.com/Aruniya-Nadeshan/ra-contact) | AI-powered 7-level interactive web game inspired by the Law of One | HTML · CSS · JS · Node.js · Gemini 2.5 Flash · TensorFlow.js · MediaPipe |
 | **CareerPath AI** | Career recommendation system using a Decision Tree Classifier | React.js · Node.js · Python · scikit-learn · MongoDB Atlas |
-| **AI-Restaurant System** | A full-stack intelligent restaurant management platform with integrated AI-driven demand forecasting and waste prediction for both sales and inventory optimization. | Next.js 14, React 18, Tailwind CSS, Chart.js
-Node.js, Express.js, Prisma ORM
-PostgreSQL
-Python 3.9+, FastAPI, scikit-learn
-Vercel (frontend), Render (backend & AI service)
-Docker, docker-compose |
+| **AI-Restaurant System** | A full-stack intelligent restaurant management platform with integrated AI-driven demand forecasting and waste prediction for both sales and inventory optimization. | Tailwind CSS, Node.js, Express.js, Prisma ORM, PostgreSQL, Python 3.9+, FastAPI, scikit-learn|
 | **TripIQ** | AI-powered travel planning mobile app | React Native |
 
 ## GitHub stats
