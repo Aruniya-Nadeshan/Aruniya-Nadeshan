@@ -326,33 +326,6 @@ In addition to coordinating Scrum activities, I implemented the application's **
 
 ---
 
-# `08 // ENGINEERING INTERESTS`
-
-```mermaid
-mindmap
-  root((Aruniya))
-    Artificial Intelligence
-      Machine Learning
-      NLP
-      Generative AI
-      Model Evaluation
-    Software Engineering
-      Backend Systems
-      REST APIs
-      Full-Stack Development
-      System Integration
-    Data
-      Forecasting
-      Classification
-      Recommendation Systems
-    Development
-      Agile
-      Git
-      Cloud Deployment
-```
-
----
-
 # `09 // GITHUB ANALYTICS`
 
 <div align="center">
